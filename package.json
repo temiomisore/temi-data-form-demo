@@ -1,0 +1,6 @@
+{
+  "name": "temi-data-form-demo",
+  "dependencies": {
+    "@dataform/core": "2.4.2"
+  }
+}
